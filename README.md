@@ -1,4 +1,4 @@
-# Frases célebres de programadores
+#alexandro jose juarez palma
 
 "Tienen ordenadores, y pueden tener otras armas de destrucción masiva" --Janet Reno
 
